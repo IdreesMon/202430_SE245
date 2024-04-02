@@ -10,7 +10,7 @@ namespace Week1_Samplel {
             String strFirst, strOperand, strNum1, strNum2;
             Int32 intNum1 = 0, intNum2 = 0, intNum3, intResult = 0;
             //added strNum1
-            Double dblResult;
+            Double dblResult = 0;
 //This part of the code is all of the variables inside the code.
             Console.WriteLine ("Hello There!");
 
@@ -22,7 +22,7 @@ namespace Week1_Samplel {
             Console.Write ("Please enter the first number: ");
             strNum1 = Console.ReadLine ();
 
-            Console.Write ("Please enter the math operation (PLUS, MINUS, MULTIPLY, DIVIDE): ");
+            Console.Write ("Please enter the math operation (PLUS, MINUS, MULTIPLY, DIVIDE, POWER): ");
             strOperand = Console.ReadLine ();
 
             Console.Write ("Please enter the second number: ");
@@ -33,17 +33,26 @@ namespace Week1_Samplel {
 //This is where the numbers are assigned to the variables
             switch (strOperand) {
                 case "PLUS":
-                    intResult = intNum1 + intNum2;
+                    dblResult = intNum1 + intNum2;
                     break;
                 case "MINUS":
-                    intResult = intNum1 - intNum2;
+                    dblResult = intNum1 - intNum2;
                     break;
                 case "DIVIDE":
-                    intResult = intNum1 / intNum2;
+                    dblResult = intNum1 / intNum2;
                     break;
                 case "MULTIPLY":
-                    intResult = intNum1 * intNum2;
+                    dblResult = intNum1 * intNum2;
                     break;
+                case "POWER":
+                    dblResult = Math.pov (intNum1 ^ intNum2);
+                    break;
+
+       
+             dblResult = (Double) intResult;
+            
+                
+        
                     //This is where the code was missing an original place to initalize the MULTIPLY statement and was needing it
             }
 //This part of the code is where the math is calculated by checking which operation was choosen by the user and then placed into it. 
@@ -57,6 +66,8 @@ namespace Week1_Samplel {
                 Console.WriteLine ($"\n\nThe quotient of {intNum1} and {intNum2} equals: {dblResult}");
             else if (strOperand == "MULTIPLY")
                 Console.WriteLine ($"\n\nThe product of {intNum1} and {intNum2} equals: {dblResult}");
+            else if (strOperand == "EXPONENTS")
+                Console.WriteLine ($"\n\nThe exponent of {intNum1} and {intNum2} equals: {dblResult}");
 //Added where I should put the place to solve the mulitplication problem intialize it. Multipling the variables together.
 //This part of the code prints the solution to the problem and which operator you chose. once it figures that out it then prints the proper statement.
             Console.WriteLine ("\n\nPress Any Key to Continue");
