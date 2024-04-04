@@ -34,18 +34,24 @@ namespace Week1_Samplel {
             switch (strOperand) {
                 case "PLUS":
                     dblResult = intNum1 + intNum2;
+                    Console.WriteLine ($"\n\nThe sum of {intNum1} and {intNum2} equals: {dblResult}");
                     break;
+
                 case "MINUS":
                     dblResult = intNum1 - intNum2;
+                    Console.WriteLine ($"\n\nThe difference of {intNum1} and {intNum2} equals: {dblResult}");
                     break;
                 case "DIVIDE":
                     dblResult = intNum1 / intNum2;
+                    Console.WriteLine ($"\n\nThe quotient of {intNum1} and {intNum2} equals: {dblResult}");
                     break;
                 case "MULTIPLY":
                     dblResult = intNum1 * intNum2;
+                     Console.WriteLine ($"\n\nThe product of {intNum1} and {intNum2} equals: {dblResult}");
                     break;
                 case "POWER":
-                    dblResult = Math.pov (intNum1 ^ intNum2);
+                    dblResult = Math.Pow (intNum1, intNum2);
+                    Console.WriteLine ($"\n\nThe exponent of {intNum1} and {intNum2} equals: {dblResult}");
                     break;
 
        
@@ -66,7 +72,7 @@ namespace Week1_Samplel {
                 Console.WriteLine ($"\n\nThe quotient of {intNum1} and {intNum2} equals: {dblResult}");
             else if (strOperand == "MULTIPLY")
                 Console.WriteLine ($"\n\nThe product of {intNum1} and {intNum2} equals: {dblResult}");
-            else if (strOperand == "EXPONENTS")
+            else if (strOperand == "POWER")
                 Console.WriteLine ($"\n\nThe exponent of {intNum1} and {intNum2} equals: {dblResult}");
 //Added where I should put the place to solve the mulitplication problem intialize it. Multipling the variables together.
 //This part of the code prints the solution to the problem and which operator you chose. once it figures that out it then prints the proper statement.

@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "../../../../Library/Mobile Documents/.Trash/Week2ex"
 		}
 	],
 	"settings": {}
