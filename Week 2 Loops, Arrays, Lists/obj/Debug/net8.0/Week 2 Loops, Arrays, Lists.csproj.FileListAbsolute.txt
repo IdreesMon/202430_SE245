@@ -1,0 +1,15 @@
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/Week 2 Loops, Arrays, Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/Week 2 Loops, Arrays, Lists.AssemblyInfoInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/Week 2 Loops, Arrays, Lists.AssemblyInfo.cs
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/Week 2 Loops, Arrays, Lists.csproj.CoreCompileInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/Week 2 Loops, Arrays, Lists.sourcelink.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/bin/Debug/net8.0/Week 2 Loops, Arrays, Lists
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/bin/Debug/net8.0/Week 2 Loops, Arrays, Lists.deps.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/bin/Debug/net8.0/Week 2 Loops, Arrays, Lists.runtimeconfig.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/bin/Debug/net8.0/Week 2 Loops, Arrays, Lists.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/bin/Debug/net8.0/Week 2 Loops, Arrays, Lists.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/Week 2 Loops, Arrays, Lists.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/refint/Week 2 Loops, Arrays, Lists.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/Week 2 Loops, Arrays, Lists.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/Week 2 Loops, Arrays, Lists.genruntimeconfig.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 2 Loops, Arrays, Lists/obj/Debug/net8.0/ref/Week 2 Loops, Arrays, Lists.dll
