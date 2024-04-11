@@ -1,0 +1,15 @@
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/Reverse.AssemblyInfoInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/Reverse.AssemblyInfo.cs
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/Reverse.csproj.CoreCompileInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/Reverse.sourcelink.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/bin/Debug/net8.0/Reverse
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/bin/Debug/net8.0/Reverse.deps.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/bin/Debug/net8.0/Reverse.runtimeconfig.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/bin/Debug/net8.0/Reverse.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/bin/Debug/net8.0/Reverse.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/Reverse.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/refint/Reverse.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/Reverse.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/Reverse.genruntimeconfig.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week3b/Reverse/obj/Debug/net8.0/ref/Reverse.dll
