@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Methods
+namespace Week3 Methods
 {
     class program
     {
@@ -11,7 +11,7 @@ namespace Methods
 
 
 
-        
+
     }
 
 
