@@ -1,0 +1,5 @@
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.AssemblyInfoInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.AssemblyInfo.cs
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.csproj.CoreCompileInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.sourcelink.json

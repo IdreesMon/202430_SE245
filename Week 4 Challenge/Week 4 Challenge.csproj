@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Week_4_Challenge</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
+
+    <!-- {
+            //DECLARE VARIABLES
+            int minX, maxX, minY, maxY;
+            //CREATE RANDOM OBJECT
+            Random random = new Random();
+            //CREATE POINT OBJECT
+            Point point = new Point(random.Next);
+            //ASSIGN RANGES TO X AND Y
+            minX = -100;
+            maxX = 100;
+            minY = -100;
+            maxY = 100;
+            
+            point.x = random.Next(-100, 100);
+            point.y = random.Next(-100, 100);
+            //RETURN RANDOM INT TO CALLER
+            return point;
+        } -->
