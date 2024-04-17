@@ -3,3 +3,13 @@
 /Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.AssemblyInfo.cs
 /Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.csproj.CoreCompileInputs.cache
 /Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.sourcelink.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/bin/Debug/net8.0/Week 4 Challenge
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/bin/Debug/net8.0/Week 4 Challenge.deps.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/bin/Debug/net8.0/Week 4 Challenge.runtimeconfig.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/bin/Debug/net8.0/Week 4 Challenge.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/bin/Debug/net8.0/Week 4 Challenge.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/refint/Week 4 Challenge.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/Week 4 Challenge.genruntimeconfig.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Challenge/obj/Debug/net8.0/ref/Week 4 Challenge.dll
