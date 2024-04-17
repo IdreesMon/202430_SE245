@@ -61,7 +61,7 @@ namespace Week4_Challenge
         {
             Point[] points = new Point[10];
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 10; i++)
             {
                 points[i] = new Point();
             }
