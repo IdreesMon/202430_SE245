@@ -8,7 +8,7 @@ namespace Week1_Samplel {
     class Program {
         static void Main (string[] args) {
             String strFirst, strOperand, strNum1, strNum2;
-            Int32 intNum1 = 0, intNum2 = 0, intNum3, intResult = 0;
+            /*Int32 intNum1 = 0, intNum2 = 0, intNum3, intResult = 0;*/
             //added strNum1
             Double dblResult = 0;
 //This part of the code is all of the variables inside the code.
@@ -33,16 +33,16 @@ namespace Week1_Samplel {
 //This is where the numbers are assigned to the variables
             switch (strOperand) {
                 case "PLUS":
-                    dblResult = intNum1 + intNum2;
+                    dblResult = double Num1 + double Num2;
                     Console.WriteLine ($"\n\nThe sum of {intNum1} and {intNum2} equals: {dblResult}");
                     break;
 
                 case "MINUS":
-                    dblResult = intNum1 - intNum2;
+                    dblResult = double Num1 - double Num2;
                     Console.WriteLine ($"\n\nThe difference of {intNum1} and {intNum2} equals: {dblResult}");
                     break;
                 case "DIVIDE":
-                    dblResult = intNum1 / intNum2;
+                    dblResult = double Num1 / double Num2;
                     Console.WriteLine ($"\n\nThe quotient of {intNum1} and {intNum2} equals: {dblResult}");
                     break;
                 case "MULTIPLY":
