@@ -1,0 +1,15 @@
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/bin/Debug/net8.0/Week 4 Person structs
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/bin/Debug/net8.0/Week 4 Person structs.deps.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/bin/Debug/net8.0/Week 4 Person structs.runtimeconfig.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/bin/Debug/net8.0/Week 4 Person structs.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/bin/Debug/net8.0/Week 4 Person structs.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/Week 4 Person structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/Week 4 Person structs.AssemblyInfoInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/Week 4 Person structs.AssemblyInfo.cs
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/Week 4 Person structs.csproj.CoreCompileInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/Week 4 Person structs.sourcelink.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/Week 4 Person structs.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/refint/Week 4 Person structs.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/Week 4 Person structs.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/Week 4 Person structs.genruntimeconfig.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 4 Person structs/obj/Debug/net8.0/ref/Week 4 Person structs.dll
