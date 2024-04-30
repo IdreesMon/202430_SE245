@@ -29,7 +29,7 @@ namespace Week1_Samplel
 
             Console.Write("Please enter the second number: ");
             strNum2 = Console.ReadLine();
-            //This part of the code is the main area in which we are looking at the code grab all the numbers from the user and which symbol they want to use
+           
             double Num1 = double.Parse(strNum1);
             double Num2 = double.Parse(strNum2);
 
