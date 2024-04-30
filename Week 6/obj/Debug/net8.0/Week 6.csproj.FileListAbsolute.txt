@@ -1,0 +1,15 @@
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/bin/Debug/net8.0/Week 6
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/bin/Debug/net8.0/Week 6.deps.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/bin/Debug/net8.0/Week 6.runtimeconfig.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/bin/Debug/net8.0/Week 6.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/bin/Debug/net8.0/Week 6.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/Week 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/Week 6.AssemblyInfoInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/Week 6.AssemblyInfo.cs
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/Week 6.csproj.CoreCompileInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/Week 6.sourcelink.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/Week 6.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/refint/Week 6.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/Week 6.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/Week 6.genruntimeconfig.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6/obj/Debug/net8.0/ref/Week 6.dll
