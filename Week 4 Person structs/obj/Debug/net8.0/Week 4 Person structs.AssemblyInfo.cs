@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week 4 Person structs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+341f6080b5a105c7fd01c9be1477879d311d7a04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35191100e349bf836dc858ccc17059363f1361c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week 4 Person structs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week 4 Person structs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
