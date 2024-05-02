@@ -1,0 +1,15 @@
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/bin/Debug/net8.0/Week 6 Palindrom
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/bin/Debug/net8.0/Week 6 Palindrom.deps.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/bin/Debug/net8.0/Week 6 Palindrom.runtimeconfig.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/bin/Debug/net8.0/Week 6 Palindrom.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/bin/Debug/net8.0/Week 6 Palindrom.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/Week 6 Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/Week 6 Palindrom.AssemblyInfoInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/Week 6 Palindrom.AssemblyInfo.cs
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/Week 6 Palindrom.csproj.CoreCompileInputs.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/Week 6 Palindrom.sourcelink.json
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/Week 6 Palindrom.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/refint/Week 6 Palindrom.dll
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/Week 6 Palindrom.pdb
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/Week 6 Palindrom.genruntimeconfig.cache
+/Users/idreesmontequiu/Desktop/REPOS/202430_SE245/Week 6 Palindrom/obj/Debug/net8.0/ref/Week 6 Palindrom.dll
